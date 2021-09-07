@@ -1,0 +1,918 @@
+2021-08-10 00:39:32 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 00:40:32 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 08:32:16 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 08:33:19 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 08:33:19 - INFO - Get columns
+2021-08-10 08:33:19 - INFO - Start generating XGBoost training data
+2021-08-10 08:34:27 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 08:34:27 - INFO - Get columns
+2021-08-10 08:34:27 - INFO - Start generating XGBoost training data
+2021-08-10 08:36:26 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 08:36:26 - INFO - Get columns
+2021-08-10 08:36:26 - INFO - Start generating XGBoost training data
+2021-08-10 08:39:42 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 08:39:42 - INFO - Get columns
+2021-08-10 08:39:42 - INFO - Start generating XGBoost training data
+2021-08-10 08:40:52 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 08:40:52 - INFO - Get columns
+2021-08-10 08:40:52 - INFO - Start generating XGBoost training data
+2021-08-10 08:41:06 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 08:41:06 - INFO - Get columns
+2021-08-10 08:41:06 - INFO - Start generating XGBoost training data
+2021-08-10 08:41:06 - INFO - Start predicting on test data
+2021-08-10 08:45:47 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 08:45:47 - INFO - Get columns
+2021-08-10 08:45:47 - INFO - Start generating XGBoost training data
+2021-08-10 08:46:29 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 08:46:29 - INFO - Get columns
+2021-08-10 08:46:29 - INFO - Start generating XGBoost training data
+2021-08-10 08:46:30 - INFO - Start predicting on test data
+2021-08-10 08:50:09 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 08:50:09 - INFO - Get columns
+2021-08-10 08:50:09 - INFO - Start generating XGBoost training data
+2021-08-10 08:50:10 - INFO - Start predicting on test data
+2021-08-10 08:51:28 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 08:51:28 - INFO - Get columns
+2021-08-10 08:51:28 - INFO - Start generating XGBoost training data
+2021-08-10 08:51:29 - INFO - Start predicting on test data
+2021-08-10 08:52:01 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 08:52:01 - INFO - Get columns
+2021-08-10 08:52:01 - INFO - Start generating XGBoost training data
+2021-08-10 08:52:02 - INFO - Start predicting on test data
+2021-08-10 08:53:22 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 08:53:22 - INFO - Get columns
+2021-08-10 08:53:22 - INFO - Start generating XGBoost training data
+2021-08-10 08:53:23 - INFO - Start predicting on test data
+2021-08-10 08:53:24 - INFO - Index Price Forecasting:
+2021-08-10 08:53:24 - INFO - Start generating feature importance with SHAP
+2021-08-10 09:03:22 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 09:03:22 - INFO - Get columns
+2021-08-10 09:03:22 - INFO - Start generating XGBoost training data
+2021-08-10 09:03:23 - INFO - Start predicting on test data
+2021-08-10 09:03:24 - INFO - Index Price Forecasting:
+2021-08-10 09:03:24 - INFO - Start generating feature importance with SHAP
+2021-08-10 09:08:48 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 09:08:48 - INFO - Get columns
+2021-08-10 09:08:48 - INFO - Start generating XGBoost training data
+2021-08-10 09:08:49 - INFO - Start predicting on test data
+2021-08-10 09:08:50 - INFO - Index Price Forecasting:
+2021-08-10 09:08:50 - INFO - Start generating feature importance with SHAP
+2021-08-10 09:11:11 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 09:11:11 - INFO - Get columns
+2021-08-10 09:11:11 - INFO - Start generating XGBoost training data
+2021-08-10 09:11:12 - INFO - Start predicting on test data
+2021-08-10 09:12:42 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 09:12:42 - INFO - Get columns
+2021-08-10 09:12:42 - INFO - Start generating XGBoost training data
+2021-08-10 09:12:43 - INFO - Start predicting on test data
+2021-08-10 09:15:44 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 09:15:44 - INFO - Get columns
+2021-08-10 09:15:44 - INFO - Start generating XGBoost training data
+2021-08-10 09:15:45 - INFO - Start generating feature importance with SHAP
+2021-08-10 09:16:48 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 09:16:48 - INFO - Get columns
+2021-08-10 09:16:48 - INFO - Start generating XGBoost training data
+2021-08-10 09:16:49 - INFO - Start generating feature importance with SHAP
+2021-08-10 09:52:19 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 09:52:19 - INFO - Get columns
+2021-08-10 09:52:19 - INFO - Start generating XGBoost training data
+2021-08-10 09:52:20 - INFO - Start generating feature importance with SHAP
+2021-08-10 09:53:13 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 09:53:13 - INFO - Get columns
+2021-08-10 09:53:13 - INFO - Start generating XGBoost training data
+2021-08-10 09:53:14 - INFO - Start generating feature importance with SHAP
+2021-08-10 09:56:08 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 09:56:08 - INFO - Get columns
+2021-08-10 09:56:08 - INFO - Start generating XGBoost training data
+2021-08-10 09:56:09 - INFO - Start predicting on test data
+2021-08-10 09:56:10 - INFO - Index Price Forecasting:
+2021-08-10 09:56:31 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 09:56:32 - INFO - Get columns
+2021-08-10 09:56:32 - INFO - Start generating XGBoost training data
+2021-08-10 09:56:32 - INFO - Start predicting on test data
+2021-08-10 09:56:33 - INFO - Index Price Forecasting:
+2021-08-10 09:56:33 - INFO - Start generating feature importance with SHAP
+2021-08-10 09:56:34 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 2 seconds
+2021-08-10 09:57:59 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 09:57:59 - INFO - Get columns
+2021-08-10 09:57:59 - INFO - Start generating XGBoost training data
+2021-08-10 09:58:00 - INFO - Start predicting on test data
+2021-08-10 09:58:00 - INFO - Index Price Forecasting:
+2021-08-10 09:58:01 - INFO - Start generating feature importance with SHAP
+2021-08-10 09:58:01 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 1 seconds
+2021-08-10 09:58:28 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 09:58:28 - INFO - Get columns
+2021-08-10 09:58:28 - INFO - Start generating XGBoost training data
+2021-08-10 09:58:29 - INFO - Start predicting on test data
+2021-08-10 09:58:30 - INFO - Index Price Forecasting:
+2021-08-10 09:58:30 - INFO - Start generating feature importance with SHAP
+2021-08-10 09:58:30 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 1 seconds
+2021-08-10 10:03:39 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 10:03:39 - INFO - Get columns
+2021-08-10 10:03:39 - INFO - Start generating XGBoost training data
+2021-08-10 10:03:40 - INFO - Start predicting on test data
+2021-08-10 10:03:41 - INFO - Index Price Forecasting:
+2021-08-10 10:03:41 - INFO - Start generating feature importance with SHAP
+2021-08-10 10:03:41 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 1 seconds
+2021-08-10 10:04:31 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 10:04:32 - INFO - Get columns
+2021-08-10 10:04:32 - INFO - Start generating XGBoost training data
+2021-08-10 10:04:32 - INFO - Start predicting on test data
+2021-08-10 10:04:33 - INFO - Index Price Forecasting:
+2021-08-10 10:04:33 - INFO - Start generating feature importance with SHAP
+2021-08-10 10:04:33 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 1 seconds
+2021-08-10 10:05:02 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 10:05:02 - INFO - Get columns
+2021-08-10 10:05:02 - INFO - Start generating XGBoost training data
+2021-08-10 10:05:03 - INFO - Start predicting on test data
+2021-08-10 10:05:04 - INFO - Index Price Forecasting:
+2021-08-10 10:05:04 - INFO - Start generating feature importance with SHAP
+2021-08-10 10:05:04 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 2 seconds
+2021-08-10 10:05:35 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 10:05:35 - INFO - Get columns
+2021-08-10 10:05:35 - INFO - Start generating XGBoost training data
+2021-08-10 10:05:36 - INFO - Start predicting on test data
+2021-08-10 10:05:51 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 10:05:51 - INFO - Get columns
+2021-08-10 10:05:51 - INFO - Start generating XGBoost training data
+2021-08-10 10:05:51 - INFO - Start predicting on test data
+2021-08-10 10:05:52 - INFO - Index Price Forecasting:
+2021-08-10 10:05:52 - INFO - Start generating feature importance with SHAP
+2021-08-10 10:05:53 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 2 seconds
+2021-08-10 10:07:41 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 10:07:41 - INFO - Get columns
+2021-08-10 10:07:41 - INFO - Start generating XGBoost training data
+2021-08-10 10:07:42 - INFO - Start predicting on test data
+2021-08-10 10:07:43 - INFO - Index Price Forecasting:
+2021-08-10 10:07:43 - INFO - Start generating feature importance with SHAP
+2021-08-10 10:07:43 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 2 seconds
+2021-08-10 10:12:10 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 10:12:10 - INFO - Get columns
+2021-08-10 10:12:10 - INFO - Start generating XGBoost training data
+2021-08-10 10:12:11 - INFO - Start predicting on test data
+2021-08-10 10:12:12 - INFO - Index Price Forecasting:
+2021-08-10 10:12:12 - INFO - Start generating feature importance with SHAP
+2021-08-10 10:12:12 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 2 seconds
+2021-08-10 10:20:04 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 10:20:04 - INFO - Get columns
+2021-08-10 10:20:04 - INFO - Start generating XGBoost training data
+2021-08-10 10:20:05 - INFO - Start predicting on test data
+2021-08-10 10:20:06 - INFO - Index Price Forecasting:
+2021-08-10 10:20:06 - INFO - Start generating feature importance with SHAP
+2021-08-10 10:20:06 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 2 seconds
+2021-08-10 10:25:20 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 10:25:20 - INFO - Get columns
+2021-08-10 10:25:20 - INFO - Start generating XGBoost training data
+2021-08-10 10:25:20 - INFO - Start predicting on test data
+2021-08-10 10:25:21 - INFO - Index Price Forecasting:
+2021-08-10 10:25:21 - INFO - Start generating feature importance with SHAP
+2021-08-10 10:25:47 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 10:25:47 - INFO - Get columns
+2021-08-10 10:25:47 - INFO - Start generating XGBoost training data
+2021-08-10 10:25:48 - INFO - Start predicting on test data
+2021-08-10 10:25:49 - INFO - Index Price Forecasting:
+2021-08-10 10:25:49 - INFO - Start generating feature importance with SHAP
+2021-08-10 10:25:49 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 1 seconds
+2021-08-10 10:27:12 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 10:27:13 - INFO - Get columns
+2021-08-10 10:27:13 - INFO - Start generating XGBoost training data
+2021-08-10 10:27:13 - INFO - Start predicting on test data
+2021-08-10 10:27:14 - INFO - Index Price Forecasting:
+2021-08-10 10:27:14 - INFO - Start generating feature importance with SHAP
+2021-08-10 10:27:14 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 1 seconds
+2021-08-10 11:26:25 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 11:26:25 - INFO - Get columns
+2021-08-10 11:26:25 - INFO - Start generating XGBoost training data
+2021-08-10 11:26:26 - INFO - Start predicting on test data
+2021-08-10 11:26:27 - INFO - Index Price Forecasting:
+2021-08-10 11:26:28 - INFO - Start generating feature importance with SHAP
+2021-08-10 11:26:28 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 3 seconds
+2021-08-10 11:26:44 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 11:26:44 - INFO - Get columns
+2021-08-10 11:26:44 - INFO - Start generating XGBoost training data
+2021-08-10 11:26:45 - INFO - Start predicting on test data
+2021-08-10 11:26:46 - INFO - Index Price Forecasting:
+2021-08-10 11:26:46 - INFO - Start generating feature importance with SHAP
+2021-08-10 11:26:46 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 1 seconds
+2021-08-10 11:28:51 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 11:28:51 - INFO - Get columns
+2021-08-10 11:28:51 - INFO - Start generating XGBoost training data
+2021-08-10 11:28:52 - INFO - Start predicting on test data
+2021-08-10 11:28:53 - INFO - Index Price Forecasting:
+2021-08-10 11:28:53 - INFO - Start generating feature importance with SHAP
+2021-08-10 11:28:53 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 2 seconds
+2021-08-10 11:43:13 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 11:43:13 - INFO - Get columns
+2021-08-10 11:43:13 - INFO - Start generating XGBoost training data
+2021-08-10 11:43:13 - INFO - Start predicting on test data
+2021-08-10 11:43:15 - INFO - Index Price Forecasting:
+2021-08-10 11:43:15 - INFO - Start generating feature importance with SHAP
+2021-08-10 11:43:15 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 2 seconds
+2021-08-10 12:03:49 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 12:03:49 - INFO - Get columns
+2021-08-10 12:03:49 - INFO - Start generating XGBoost training data
+2021-08-10 12:03:50 - INFO - Start predicting on test data
+2021-08-10 12:03:51 - INFO - Index Price Forecasting:
+2021-08-10 12:03:51 - INFO - Start generating feature importance with SHAP
+2021-08-10 12:03:51 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 1 seconds
+2021-08-10 12:04:04 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 12:04:04 - INFO - Get columns
+2021-08-10 12:04:04 - INFO - Start generating XGBoost training data
+2021-08-10 12:04:05 - INFO - Start predicting on test data
+2021-08-10 12:04:06 - INFO - Index Price Forecasting:
+2021-08-10 12:04:06 - INFO - Start generating feature importance with SHAP
+2021-08-10 12:04:06 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 1 seconds
+2021-08-10 12:04:18 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 12:04:18 - INFO - Get columns
+2021-08-10 12:04:18 - INFO - Start generating XGBoost training data
+2021-08-10 12:04:18 - INFO - Start predicting on test data
+2021-08-10 12:04:19 - INFO - Index Price Forecasting:
+2021-08-10 12:04:19 - INFO - Start generating feature importance with SHAP
+2021-08-10 12:04:19 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 1 seconds
+2021-08-10 12:38:44 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 12:38:44 - INFO - Get columns
+2021-08-10 12:38:44 - INFO - Start generating XGBoost training data
+2021-08-10 12:38:44 - INFO - Start predicting on test data
+2021-08-10 12:38:45 - INFO - Index Price Forecasting:
+2021-08-10 12:38:45 - INFO - Start generating feature importance with SHAP
+2021-08-10 12:39:20 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 12:39:20 - INFO - Get columns
+2021-08-10 12:39:20 - INFO - Start generating XGBoost training data
+2021-08-10 12:39:21 - INFO - Start predicting on test data
+2021-08-10 12:39:22 - INFO - Index Price Forecasting:
+2021-08-10 12:39:22 - INFO - Start generating feature importance with SHAP
+2021-08-10 12:39:22 - INFO - Start predicting on full data
+2021-08-10 12:40:41 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 12:40:41 - INFO - Get columns
+2021-08-10 12:40:41 - INFO - Start generating XGBoost training data
+2021-08-10 12:40:42 - INFO - Start predicting on test data
+2021-08-10 12:40:43 - INFO - Index Price Forecasting:
+2021-08-10 12:40:43 - INFO - Start generating feature importance with SHAP
+2021-08-10 12:40:43 - INFO - Start predicting on full data
+2021-08-10 12:40:43 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 1 seconds
+2021-08-10 12:42:44 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 12:42:44 - INFO - Get columns
+2021-08-10 12:42:44 - INFO - Start generating XGBoost training data
+2021-08-10 12:42:45 - INFO - Start predicting on test data
+2021-08-10 12:42:46 - INFO - Index Price Forecasting:
+2021-08-10 12:42:46 - INFO - Start generating feature importance with SHAP
+2021-08-10 12:42:46 - INFO - Start predicting on full data
+2021-08-10 12:42:46 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 1 seconds
+2021-08-10 12:43:14 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 12:43:14 - INFO - Get columns
+2021-08-10 12:43:14 - INFO - Start generating XGBoost training data
+2021-08-10 12:43:15 - INFO - Start predicting on test data
+2021-08-10 12:43:16 - INFO - Index Price Forecasting:
+2021-08-10 12:43:16 - INFO - Start generating feature importance with SHAP
+2021-08-10 12:43:16 - INFO - Start predicting on full data
+2021-08-10 12:43:42 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 12:43:42 - INFO - Get columns
+2021-08-10 12:43:42 - INFO - Start generating XGBoost training data
+2021-08-10 12:43:43 - INFO - Start predicting on test data
+2021-08-10 12:43:44 - INFO - Index Price Forecasting:
+2021-08-10 12:43:44 - INFO - Start generating feature importance with SHAP
+2021-08-10 12:43:44 - INFO - Start predicting on full data
+2021-08-10 12:45:02 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 12:45:02 - INFO - Get columns
+2021-08-10 12:45:02 - INFO - Start generating XGBoost training data
+2021-08-10 12:45:03 - INFO - Start predicting on test data
+2021-08-10 12:45:04 - INFO - Index Price Forecasting:
+2021-08-10 12:45:04 - INFO - Start generating feature importance with SHAP
+2021-08-10 12:45:04 - INFO - Start predicting on full data
+2021-08-10 12:45:36 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 12:45:36 - INFO - Get columns
+2021-08-10 12:45:36 - INFO - Start generating XGBoost training data
+2021-08-10 12:45:36 - INFO - Start predicting on test data
+2021-08-10 12:45:37 - INFO - Index Price Forecasting:
+2021-08-10 12:45:37 - INFO - Start generating feature importance with SHAP
+2021-08-10 12:45:37 - INFO - Start predicting on full data
+2021-08-10 12:47:14 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 12:47:14 - INFO - Get columns
+2021-08-10 12:47:14 - INFO - Start generating XGBoost training data
+2021-08-10 12:47:15 - INFO - Start predicting on test data
+2021-08-10 12:47:15 - INFO - Index Price Forecasting:
+2021-08-10 12:47:16 - INFO - Start generating feature importance with SHAP
+2021-08-10 12:47:16 - INFO - Start predicting on full data
+2021-08-10 12:47:40 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 12:47:40 - INFO - Get columns
+2021-08-10 12:47:40 - INFO - Start generating XGBoost training data
+2021-08-10 12:47:41 - INFO - Start predicting on test data
+2021-08-10 12:47:42 - INFO - Index Price Forecasting:
+2021-08-10 12:47:42 - INFO - Start generating feature importance with SHAP
+2021-08-10 12:47:42 - INFO - Start predicting on full data
+2021-08-10 12:47:42 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 1 seconds
+2021-08-10 12:49:59 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 12:49:59 - INFO - Get columns
+2021-08-10 12:49:59 - INFO - Start generating XGBoost training data
+2021-08-10 12:49:59 - INFO - Start predicting on test data
+2021-08-10 12:50:00 - INFO - Index Price Forecasting:
+2021-08-10 12:50:00 - INFO - Start generating feature importance with SHAP
+2021-08-10 12:50:00 - INFO - Start predicting on full data
+2021-08-10 12:51:26 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 12:51:26 - INFO - Get columns
+2021-08-10 12:51:26 - INFO - Start generating XGBoost training data
+2021-08-10 12:51:27 - INFO - Start predicting on test data
+2021-08-10 12:51:28 - INFO - Index Price Forecasting:
+2021-08-10 12:51:28 - INFO - Start generating feature importance with SHAP
+2021-08-10 12:51:28 - INFO - Start predicting on full data
+2021-08-10 12:51:30 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 3 seconds
+2021-08-10 12:52:14 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 12:52:14 - INFO - Get columns
+2021-08-10 12:52:14 - INFO - Start generating XGBoost training data
+2021-08-10 12:52:15 - INFO - Start predicting on test data
+2021-08-10 12:52:15 - INFO - Index Price Forecasting:
+2021-08-10 12:52:15 - INFO - Start generating feature importance with SHAP
+2021-08-10 12:52:15 - INFO - Start predicting on full data
+2021-08-10 12:52:17 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 2 seconds
+2021-08-10 12:55:11 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 12:55:11 - INFO - Get columns
+2021-08-10 12:55:11 - INFO - Start generating XGBoost training data
+2021-08-10 12:55:46 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 12:55:46 - INFO - Get columns
+2021-08-10 12:55:46 - INFO - Start generating XGBoost training data
+2021-08-10 12:55:56 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 12:55:56 - INFO - Get columns
+2021-08-10 12:55:56 - INFO - Start generating XGBoost training data
+2021-08-10 12:55:56 - INFO - Start predicting on test data
+2021-08-10 12:55:56 - INFO - Index Price Forecasting:
+2021-08-10 12:55:56 - INFO - Start generating feature importance with SHAP
+2021-08-10 12:55:56 - INFO - Start predicting on full data
+2021-08-10 12:55:59 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 3 seconds
+2021-08-10 12:56:54 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 12:56:54 - INFO - Get columns
+2021-08-10 12:56:54 - INFO - Start generating XGBoost training data
+2021-08-10 12:56:54 - INFO - Start predicting on test data
+2021-08-10 12:56:54 - INFO - Index Price Forecasting:
+2021-08-10 12:56:54 - INFO - Start generating feature importance with SHAP
+2021-08-10 12:56:54 - INFO - Start predicting on full data
+2021-08-10 12:56:57 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 2 seconds
+2021-08-10 13:03:13 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 13:03:13 - INFO - Get columns
+2021-08-10 13:03:13 - INFO - Start generating XGBoost training data
+2021-08-10 13:03:13 - INFO - Start predicting on test data
+2021-08-10 13:03:13 - INFO - Index Price Forecasting:
+2021-08-10 13:03:13 - INFO - Start generating feature importance with SHAP
+2021-08-10 13:03:13 - INFO - Start predicting on full data
+2021-08-10 13:03:16 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 3 seconds
+2021-08-10 13:03:37 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 13:03:37 - INFO - Get columns
+2021-08-10 13:03:37 - INFO - Start generating XGBoost training data
+2021-08-10 13:03:37 - INFO - Start predicting on test data
+2021-08-10 13:03:37 - INFO - Index Price Forecasting:
+2021-08-10 13:03:37 - INFO - Start generating feature importance with SHAP
+2021-08-10 13:03:38 - INFO - Start predicting on full data
+2021-08-10 13:03:40 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 2 seconds
+2021-08-10 13:05:44 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 13:05:44 - INFO - Get columns
+2021-08-10 13:05:44 - INFO - Start generating XGBoost training data
+2021-08-10 13:05:45 - INFO - Start predicting on test data
+2021-08-10 13:05:45 - INFO - Index Price Forecasting:
+2021-08-10 13:05:45 - INFO - Start generating feature importance with SHAP
+2021-08-10 13:05:45 - INFO - Start predicting on full data
+2021-08-10 13:05:47 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 3 seconds
+2021-08-10 13:11:07 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 13:11:07 - INFO - Get columns
+2021-08-10 13:11:07 - INFO - Start generating XGBoost training data
+2021-08-10 13:11:08 - INFO - Start predicting on test data
+2021-08-10 13:11:08 - INFO - Index Price Forecasting:
+2021-08-10 13:11:08 - INFO - Start generating feature importance with SHAP
+2021-08-10 13:11:08 - INFO - Start predicting on full data
+2021-08-10 13:11:10 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 2 seconds
+2021-08-10 13:12:13 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 13:12:13 - INFO - Get columns
+2021-08-10 13:12:13 - INFO - Start generating XGBoost training data
+2021-08-10 13:12:14 - INFO - Start predicting on test data
+2021-08-10 13:12:14 - INFO - Index Price Forecasting:
+2021-08-10 13:12:14 - INFO - Start generating feature importance with SHAP
+2021-08-10 13:12:14 - INFO - Start predicting on full data
+2021-08-10 13:12:16 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 3 seconds
+2021-08-10 13:13:06 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 13:13:06 - INFO - Get columns
+2021-08-10 13:13:06 - INFO - Start generating XGBoost training data
+2021-08-10 13:13:06 - INFO - Start predicting on test data
+2021-08-10 13:13:06 - INFO - Index Price Forecasting:
+2021-08-10 13:13:06 - INFO - Start generating feature importance with SHAP
+2021-08-10 13:13:07 - INFO - Start predicting on full data
+2021-08-10 13:13:09 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 2 seconds
+2021-08-10 13:13:36 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 13:13:36 - INFO - Get columns
+2021-08-10 13:13:36 - INFO - Start generating XGBoost training data
+2021-08-10 13:13:37 - INFO - Start predicting on test data
+2021-08-10 13:13:37 - INFO - Index Price Forecasting:
+2021-08-10 13:13:37 - INFO - Start generating feature importance with SHAP
+2021-08-10 13:13:37 - INFO - Start predicting on full data
+2021-08-10 13:13:40 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 3 seconds
+2021-08-10 13:13:56 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 13:13:56 - INFO - Get columns
+2021-08-10 13:13:56 - INFO - Start generating XGBoost training data
+2021-08-10 13:13:57 - INFO - Start predicting on test data
+2021-08-10 13:13:57 - INFO - Index Price Forecasting:
+2021-08-10 13:13:57 - INFO - Start generating feature importance with SHAP
+2021-08-10 13:13:57 - INFO - Start predicting on full data
+2021-08-10 13:13:59 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 2 seconds
+2021-08-10 13:14:16 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 13:14:16 - INFO - Get columns
+2021-08-10 13:14:16 - INFO - Start generating XGBoost training data
+2021-08-10 13:14:16 - INFO - Start predicting on test data
+2021-08-10 13:14:17 - INFO - Index Price Forecasting:
+2021-08-10 13:14:17 - INFO - Start generating feature importance with SHAP
+2021-08-10 13:14:17 - INFO - Start predicting on full data
+2021-08-10 13:14:19 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 3 seconds
+2021-08-10 13:14:34 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 13:14:34 - INFO - Get columns
+2021-08-10 13:14:34 - INFO - Start generating XGBoost training data
+2021-08-10 13:14:35 - INFO - Start predicting on test data
+2021-08-10 13:14:35 - INFO - Index Price Forecasting:
+2021-08-10 13:14:35 - INFO - Start generating feature importance with SHAP
+2021-08-10 13:14:35 - INFO - Start predicting on full data
+2021-08-10 13:14:37 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 2 seconds
+2021-08-10 13:18:00 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 13:18:01 - INFO - Get columns
+2021-08-10 13:18:01 - INFO - Start generating XGBoost training data
+2021-08-10 13:18:01 - INFO - Start predicting on test data
+2021-08-10 13:18:01 - INFO - Index Price Forecasting:
+2021-08-10 13:18:01 - INFO - Start generating feature importance with SHAP
+2021-08-10 13:18:02 - INFO - Start predicting on full data
+2021-08-10 13:18:04 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 3 seconds
+2021-08-10 13:18:35 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 13:18:35 - INFO - Get columns
+2021-08-10 13:18:35 - INFO - Start generating XGBoost training data
+2021-08-10 13:18:36 - INFO - Start predicting on test data
+2021-08-10 13:18:36 - INFO - Index Price Forecasting:
+2021-08-10 13:18:36 - INFO - Start generating feature importance with SHAP
+2021-08-10 13:18:36 - INFO - Start predicting on full data
+2021-08-10 13:18:38 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 3 seconds
+2021-08-10 13:20:45 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 13:20:45 - INFO - Get columns
+2021-08-10 13:20:45 - INFO - Start generating XGBoost training data
+2021-08-10 13:20:46 - INFO - Start predicting on test data
+2021-08-10 13:20:46 - INFO - Index Price Forecasting:
+2021-08-10 13:20:46 - INFO - Start generating feature importance with SHAP
+2021-08-10 13:20:46 - INFO - Start predicting on full data
+2021-08-10 13:20:48 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 3 seconds
+2021-08-10 13:24:07 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 13:24:07 - INFO - Get columns
+2021-08-10 13:24:07 - INFO - Start generating XGBoost training data
+2021-08-10 13:24:08 - INFO - Start predicting on test data
+2021-08-10 13:24:08 - INFO - Index Price Forecasting:
+2021-08-10 13:24:08 - INFO - Start generating feature importance with SHAP
+2021-08-10 13:24:09 - INFO - Start predicting on full data
+2021-08-10 13:24:11 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 3 seconds
+2021-08-10 13:25:15 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 13:25:15 - INFO - Get columns
+2021-08-10 13:25:15 - INFO - Start generating XGBoost training data
+2021-08-10 13:25:16 - INFO - Start predicting on test data
+2021-08-10 13:25:16 - INFO - Index Price Forecasting:
+2021-08-10 13:25:16 - INFO - Start generating feature importance with SHAP
+2021-08-10 13:25:16 - INFO - Start predicting on full data
+2021-08-10 13:25:19 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 3 seconds
+2021-08-10 13:42:03 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 13:42:03 - INFO - Get columns
+2021-08-10 13:42:03 - INFO - Start generating XGBoost training data
+2021-08-10 13:42:04 - INFO - Start predicting on test data
+2021-08-10 13:42:04 - INFO - Index Price Forecasting:
+2021-08-10 13:42:04 - INFO - Start generating feature importance with SHAP
+2021-08-10 13:42:04 - INFO - Start predicting on full data
+2021-08-10 13:42:06 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 2 seconds
+2021-08-10 13:43:45 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 13:43:45 - INFO - Get columns
+2021-08-10 13:43:45 - INFO - Start generating XGBoost training data
+2021-08-10 13:43:46 - INFO - Start predicting on test data
+2021-08-10 13:43:46 - INFO - Index Price Forecasting:
+2021-08-10 13:43:46 - INFO - Start generating feature importance with SHAP
+2021-08-10 13:43:46 - INFO - Start predicting on full data
+2021-08-10 13:46:15 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 13:46:15 - INFO - Get columns
+2021-08-10 13:46:15 - INFO - Start generating XGBoost training data
+2021-08-10 13:46:16 - INFO - Start predicting on test data
+2021-08-10 13:46:16 - INFO - Index Price Forecasting:
+2021-08-10 13:46:16 - INFO - Start generating feature importance with SHAP
+2021-08-10 13:46:16 - INFO - Start predicting on full data
+2021-08-10 13:46:27 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 13:46:28 - INFO - Get columns
+2021-08-10 13:46:28 - INFO - Start generating XGBoost training data
+2021-08-10 13:46:28 - INFO - Start predicting on test data
+2021-08-10 13:46:28 - INFO - Index Price Forecasting:
+2021-08-10 13:46:29 - INFO - Start generating feature importance with SHAP
+2021-08-10 13:46:29 - INFO - Start predicting on full data
+2021-08-10 13:47:09 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 13:47:09 - INFO - Get columns
+2021-08-10 13:47:09 - INFO - Start generating XGBoost training data
+2021-08-10 13:47:10 - INFO - Start predicting on test data
+2021-08-10 13:47:10 - INFO - Index Price Forecasting:
+2021-08-10 13:47:10 - INFO - Start generating feature importance with SHAP
+2021-08-10 13:47:10 - INFO - Start predicting on full data
+2021-08-10 13:48:04 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 13:48:04 - INFO - Get columns
+2021-08-10 13:48:04 - INFO - Start generating XGBoost training data
+2021-08-10 13:48:05 - INFO - Start predicting on test data
+2021-08-10 13:48:05 - INFO - Index Price Forecasting:
+2021-08-10 13:48:05 - INFO - Start generating feature importance with SHAP
+2021-08-10 13:48:05 - INFO - Start predicting on full data
+2021-08-10 13:48:34 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 13:48:34 - INFO - Get columns
+2021-08-10 13:48:34 - INFO - Start generating XGBoost training data
+2021-08-10 13:48:34 - INFO - Start predicting on test data
+2021-08-10 13:48:34 - INFO - Index Price Forecasting:
+2021-08-10 13:48:34 - INFO - Start generating feature importance with SHAP
+2021-08-10 13:48:35 - INFO - Start predicting on full data
+2021-08-10 13:48:37 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 2 seconds
+2021-08-10 13:48:56 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 13:48:56 - INFO - Get columns
+2021-08-10 13:48:56 - INFO - Start generating XGBoost training data
+2021-08-10 13:48:56 - INFO - Start predicting on test data
+2021-08-10 13:48:56 - INFO - Index Price Forecasting:
+2021-08-10 13:48:57 - INFO - Start generating feature importance with SHAP
+2021-08-10 13:48:57 - INFO - Start predicting on full data
+2021-08-10 13:48:59 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 2 seconds
+2021-08-10 13:49:44 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 13:49:44 - INFO - Get columns
+2021-08-10 13:49:44 - INFO - Start generating XGBoost training data
+2021-08-10 13:49:44 - INFO - Start predicting on test data
+2021-08-10 13:49:45 - INFO - Index Price Forecasting:
+2021-08-10 13:49:45 - INFO - Start generating feature importance with SHAP
+2021-08-10 13:49:45 - INFO - Start predicting on full data
+2021-08-10 13:50:13 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 13:50:13 - INFO - Get columns
+2021-08-10 13:50:13 - INFO - Start generating XGBoost training data
+2021-08-10 13:50:13 - INFO - Start predicting on test data
+2021-08-10 13:50:13 - INFO - Index Price Forecasting:
+2021-08-10 13:50:13 - INFO - Start generating feature importance with SHAP
+2021-08-10 13:50:13 - INFO - Start predicting on full data
+2021-08-10 13:50:32 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 13:50:32 - INFO - Get columns
+2021-08-10 13:50:32 - INFO - Start generating XGBoost training data
+2021-08-10 13:50:32 - INFO - Start predicting on test data
+2021-08-10 13:50:33 - INFO - Index Price Forecasting:
+2021-08-10 13:50:33 - INFO - Start generating feature importance with SHAP
+2021-08-10 13:50:33 - INFO - Start predicting on full data
+2021-08-10 13:50:35 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 2 seconds
+2021-08-10 13:54:02 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 13:54:02 - INFO - Get columns
+2021-08-10 13:54:02 - INFO - Start generating XGBoost training data
+2021-08-10 13:54:03 - INFO - Start predicting on test data
+2021-08-10 13:54:03 - INFO - Index Price Forecasting:
+2021-08-10 13:54:03 - INFO - Start generating feature importance with SHAP
+2021-08-10 13:54:03 - INFO - Start predicting on full data
+2021-08-10 13:54:47 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 13:54:47 - INFO - Get columns
+2021-08-10 13:54:47 - INFO - Start generating XGBoost training data
+2021-08-10 13:54:47 - INFO - Start predicting on test data
+2021-08-10 13:54:47 - INFO - Index Price Forecasting:
+2021-08-10 13:54:48 - INFO - Start generating feature importance with SHAP
+2021-08-10 13:54:48 - INFO - Start predicting on full data
+2021-08-10 13:55:14 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 13:55:14 - INFO - Get columns
+2021-08-10 13:55:14 - INFO - Start generating XGBoost training data
+2021-08-10 13:55:15 - INFO - Start predicting on test data
+2021-08-10 13:55:15 - INFO - Index Price Forecasting:
+2021-08-10 13:55:15 - INFO - Start generating feature importance with SHAP
+2021-08-10 13:55:15 - INFO - Start predicting on full data
+2021-08-10 13:55:17 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 2 seconds
+2021-08-10 13:55:42 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 13:55:42 - INFO - Get columns
+2021-08-10 13:55:42 - INFO - Start generating XGBoost training data
+2021-08-10 13:55:43 - INFO - Start predicting on test data
+2021-08-10 13:55:43 - INFO - Index Price Forecasting:
+2021-08-10 13:55:43 - INFO - Start generating feature importance with SHAP
+2021-08-10 13:55:43 - INFO - Start predicting on full data
+2021-08-10 13:57:04 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 13:57:04 - INFO - Get columns
+2021-08-10 13:57:04 - INFO - Start generating XGBoost training data
+2021-08-10 13:57:05 - INFO - Start predicting on test data
+2021-08-10 13:57:05 - INFO - Index Price Forecasting:
+2021-08-10 13:57:05 - INFO - Start generating feature importance with SHAP
+2021-08-10 13:57:05 - INFO - Start predicting on full data
+2021-08-10 13:58:08 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 13:58:08 - INFO - Get columns
+2021-08-10 13:58:08 - INFO - Start generating XGBoost training data
+2021-08-10 13:58:08 - INFO - Start predicting on test data
+2021-08-10 13:58:08 - INFO - Index Price Forecasting:
+2021-08-10 13:58:08 - INFO - Start generating feature importance with SHAP
+2021-08-10 13:58:09 - INFO - Start predicting on full data
+2021-08-10 13:59:29 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 13:59:29 - INFO - Get columns
+2021-08-10 13:59:29 - INFO - Start generating XGBoost training data
+2021-08-10 13:59:30 - INFO - Start predicting on test data
+2021-08-10 13:59:30 - INFO - Index Price Forecasting:
+2021-08-10 13:59:30 - INFO - Start generating feature importance with SHAP
+2021-08-10 13:59:30 - INFO - Start predicting on full data
+2021-08-10 13:59:57 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 13:59:57 - INFO - Get columns
+2021-08-10 13:59:57 - INFO - Start generating XGBoost training data
+2021-08-10 13:59:57 - INFO - Start predicting on test data
+2021-08-10 13:59:57 - INFO - Index Price Forecasting:
+2021-08-10 13:59:57 - INFO - Start generating feature importance with SHAP
+2021-08-10 13:59:58 - INFO - Start predicting on full data
+2021-08-10 14:00:37 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 14:00:37 - INFO - Get columns
+2021-08-10 14:00:37 - INFO - Start generating XGBoost training data
+2021-08-10 14:00:38 - INFO - Start predicting on test data
+2021-08-10 14:00:38 - INFO - Index Price Forecasting:
+2021-08-10 14:00:38 - INFO - Start generating feature importance with SHAP
+2021-08-10 14:00:38 - INFO - Start predicting on full data
+2021-08-10 14:01:49 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 14:01:49 - INFO - Get columns
+2021-08-10 14:01:49 - INFO - Start generating XGBoost training data
+2021-08-10 14:01:50 - INFO - Start predicting on test data
+2021-08-10 14:01:50 - INFO - Index Price Forecasting:
+2021-08-10 14:01:50 - INFO - Start generating feature importance with SHAP
+2021-08-10 14:01:50 - INFO - Start predicting on full data
+2021-08-10 14:02:06 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 14:02:06 - INFO - Get columns
+2021-08-10 14:02:06 - INFO - Start generating XGBoost training data
+2021-08-10 14:02:07 - INFO - Start predicting on test data
+2021-08-10 14:02:07 - INFO - Index Price Forecasting:
+2021-08-10 14:02:07 - INFO - Start generating feature importance with SHAP
+2021-08-10 14:02:07 - INFO - Start predicting on full data
+2021-08-10 14:02:41 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 14:02:41 - INFO - Get columns
+2021-08-10 14:02:41 - INFO - Start generating XGBoost training data
+2021-08-10 14:02:42 - INFO - Start predicting on test data
+2021-08-10 14:02:42 - INFO - Index Price Forecasting:
+2021-08-10 14:02:42 - INFO - Start generating feature importance with SHAP
+2021-08-10 14:02:42 - INFO - Start predicting on full data
+2021-08-10 14:03:00 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 14:03:00 - INFO - Get columns
+2021-08-10 14:03:00 - INFO - Start generating XGBoost training data
+2021-08-10 14:03:01 - INFO - Start predicting on test data
+2021-08-10 14:03:01 - INFO - Index Price Forecasting:
+2021-08-10 14:03:01 - INFO - Start generating feature importance with SHAP
+2021-08-10 14:03:01 - INFO - Start predicting on full data
+2021-08-10 14:03:52 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 14:03:52 - INFO - Get columns
+2021-08-10 14:03:52 - INFO - Start generating XGBoost training data
+2021-08-10 14:03:52 - INFO - Start predicting on test data
+2021-08-10 14:03:52 - INFO - Index Price Forecasting:
+2021-08-10 14:03:52 - INFO - Start generating feature importance with SHAP
+2021-08-10 14:03:53 - INFO - Start predicting on full data
+2021-08-10 14:04:24 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 14:04:24 - INFO - Get columns
+2021-08-10 14:04:24 - INFO - Start generating XGBoost training data
+2021-08-10 14:04:24 - INFO - Start predicting on test data
+2021-08-10 14:04:24 - INFO - Index Price Forecasting:
+2021-08-10 14:04:24 - INFO - Start generating feature importance with SHAP
+2021-08-10 14:04:25 - INFO - Start predicting on full data
+2021-08-10 14:04:27 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 2 seconds
+2021-08-10 14:04:51 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 14:04:51 - INFO - Get columns
+2021-08-10 14:04:51 - INFO - Start generating XGBoost training data
+2021-08-10 14:04:52 - INFO - Start predicting on test data
+2021-08-10 14:04:52 - INFO - Index Price Forecasting:
+2021-08-10 14:04:52 - INFO - Start generating feature importance with SHAP
+2021-08-10 14:04:52 - INFO - Start predicting on full data
+2021-08-10 14:04:54 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 2 seconds
+2021-08-10 14:07:03 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 14:07:03 - INFO - Get columns
+2021-08-10 14:07:03 - INFO - Start generating XGBoost training data
+2021-08-10 14:07:04 - INFO - Start predicting on test data
+2021-08-10 14:07:04 - INFO - Index Price Forecasting:
+2021-08-10 14:07:04 - INFO - Start generating feature importance with SHAP
+2021-08-10 14:07:04 - INFO - Start predicting on full data
+2021-08-10 14:08:10 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 14:08:10 - INFO - Get columns
+2021-08-10 14:08:10 - INFO - Start generating XGBoost training data
+2021-08-10 14:08:10 - INFO - Start predicting on test data
+2021-08-10 14:08:10 - INFO - Index Price Forecasting:
+2021-08-10 14:08:10 - INFO - Start generating feature importance with SHAP
+2021-08-10 14:08:11 - INFO - Start predicting on full data
+2021-08-10 14:08:13 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 3 seconds
+2021-08-10 14:09:41 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 14:09:41 - INFO - Get columns
+2021-08-10 14:09:41 - INFO - Start generating XGBoost training data
+2021-08-10 14:09:42 - INFO - Start predicting on test data
+2021-08-10 14:09:42 - INFO - Index Price Forecasting:
+2021-08-10 14:09:42 - INFO - Start generating feature importance with SHAP
+2021-08-10 14:09:42 - INFO - Start predicting on full data
+2021-08-10 14:09:44 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 3 seconds
+2021-08-10 14:10:17 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 14:10:17 - INFO - Get columns
+2021-08-10 14:10:17 - INFO - Start generating XGBoost training data
+2021-08-10 14:10:18 - INFO - Start predicting on test data
+2021-08-10 14:10:18 - INFO - Index Price Forecasting:
+2021-08-10 14:10:18 - INFO - Start generating feature importance with SHAP
+2021-08-10 14:10:18 - INFO - Start predicting on full data
+2021-08-10 14:10:20 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 2 seconds
+2021-08-10 14:10:56 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 14:10:56 - INFO - Get columns
+2021-08-10 14:10:56 - INFO - Start generating XGBoost training data
+2021-08-10 14:10:57 - INFO - Start predicting on test data
+2021-08-10 14:10:57 - INFO - Index Price Forecasting:
+2021-08-10 14:10:57 - INFO - Start generating feature importance with SHAP
+2021-08-10 14:10:57 - INFO - Start predicting on full data
+2021-08-10 14:10:59 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 2 seconds
+2021-08-10 14:11:35 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 14:11:36 - INFO - Get columns
+2021-08-10 14:11:36 - INFO - Start generating XGBoost training data
+2021-08-10 14:11:36 - INFO - Start predicting on test data
+2021-08-10 14:11:36 - INFO - Index Price Forecasting:
+2021-08-10 14:11:36 - INFO - Start generating feature importance with SHAP
+2021-08-10 14:11:36 - INFO - Start predicting on full data
+2021-08-10 14:11:38 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 2 seconds
+2021-08-10 15:35:30 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 15:35:31 - INFO - Get columns
+2021-08-10 15:35:31 - INFO - Start generating XGBoost training data
+2021-08-10 15:35:32 - INFO - Start predicting on test data
+2021-08-10 15:35:32 - INFO - Index Price Forecasting:
+2021-08-10 15:35:32 - INFO - Start generating feature importance with SHAP
+2021-08-10 15:35:33 - INFO - Start predicting on full data
+2021-08-10 15:35:39 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 8 seconds
+2021-08-10 16:22:07 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 16:22:07 - INFO - Get columns
+2021-08-10 16:22:07 - INFO - Start generating XGBoost training data
+2021-08-10 16:22:08 - INFO - Start predicting on test data
+2021-08-10 16:22:08 - INFO - Start generating feature importance with SHAP
+2021-08-10 16:22:08 - INFO - Start predicting on full data
+2021-08-10 16:22:11 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 4 seconds
+2021-08-10 16:50:32 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 16:50:32 - INFO - Get columns
+2021-08-10 16:50:32 - INFO - Start generating XGBoost training data
+2021-08-10 16:51:37 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 16:51:38 - INFO - Get columns
+2021-08-10 16:51:38 - INFO - Start generating XGBoost training data
+2021-08-10 16:51:38 - INFO - Start predicting on test data
+2021-08-10 16:51:38 - INFO - Start generating feature importance with SHAP
+2021-08-10 16:51:39 - INFO - Start predicting on full data
+2021-08-10 16:51:41 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 3 seconds
+2021-08-10 18:13:48 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-10 18:13:48 - INFO - Get columns
+2021-08-10 18:13:48 - INFO - Start generating XGBoost training data
+2021-08-10 18:13:49 - INFO - Start predicting on test data
+2021-08-10 18:13:49 - INFO - Start generating feature importance with SHAP
+2021-08-10 18:13:49 - INFO - Start predicting on full data
+2021-08-10 18:13:52 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 3 seconds
+2021-08-11 00:26:48 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 00:26:48 - INFO - Get columns
+2021-08-11 00:26:48 - INFO - Start generating XGBoost training data
+2021-08-11 00:26:50 - INFO - Start predicting on test data
+2021-08-11 00:26:50 - INFO - Start generating feature importance with SHAP
+2021-08-11 00:26:50 - INFO - Start predicting on full data
+2021-08-11 00:26:53 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 5 seconds
+2021-08-11 00:38:55 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 00:38:55 - INFO - Get columns
+2021-08-11 00:38:55 - INFO - Start generating XGBoost training data
+2021-08-11 00:38:56 - INFO - Start predicting on test data
+2021-08-11 00:38:56 - INFO - Start generating feature importance with SHAP
+2021-08-11 00:38:56 - INFO - Start predicting on full data
+2021-08-11 00:38:59 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 3 seconds
+2021-08-11 01:23:57 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 01:23:57 - INFO - Get columns
+2021-08-11 01:23:57 - INFO - Start generating XGBoost training data
+2021-08-11 01:23:58 - INFO - Start predicting on test data
+2021-08-11 01:23:58 - INFO - Start generating feature importance with SHAP
+2021-08-11 10:32:09 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 10:32:09 - INFO - Get columns
+2021-08-11 10:32:09 - INFO - Start generating XGBoost training data
+2021-08-11 10:32:11 - INFO - Start predicting on test data
+2021-08-11 10:32:11 - INFO - Start generating feature importance with SHAP
+2021-08-11 10:32:59 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 10:32:59 - INFO - Get columns
+2021-08-11 10:32:59 - INFO - Start generating XGBoost training data
+2021-08-11 10:33:00 - INFO - Start predicting on test data
+2021-08-11 10:33:00 - INFO - Start generating feature importance with SHAP
+2021-08-11 10:33:00 - INFO - Start predicting on full data
+2021-08-11 10:33:03 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 4 seconds
+2021-08-11 10:36:12 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 10:36:12 - INFO - Get columns
+2021-08-11 10:36:12 - INFO - Start generating XGBoost training data
+2021-08-11 10:36:13 - INFO - Start predicting on test data
+2021-08-11 10:36:13 - INFO - Start generating feature importance with SHAP
+2021-08-11 10:36:13 - INFO - Start predicting on full data
+2021-08-11 10:36:45 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 10:36:45 - INFO - Start predicting on full data
+2021-08-11 10:36:47 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 2 seconds
+2021-08-11 10:56:13 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 10:56:13 - INFO - Get columns
+2021-08-11 10:56:13 - INFO - Start generating XGBoost training data
+2021-08-11 10:56:14 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 0 seconds
+2021-08-11 10:57:27 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 10:57:27 - INFO - Get columns
+2021-08-11 10:57:27 - INFO - Start generating XGBoost training data
+2021-08-11 10:57:28 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 0 seconds
+2021-08-11 10:57:56 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 10:57:56 - INFO - Get columns
+2021-08-11 10:57:56 - INFO - Start generating XGBoost training data
+2021-08-11 10:57:57 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 0 seconds
+2021-08-11 11:00:48 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 11:00:48 - INFO - Get columns
+2021-08-11 11:00:48 - INFO - Start generating XGBoost training data
+2021-08-11 11:00:49 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 0 seconds
+2021-08-11 11:22:00 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 11:22:01 - INFO - Get columns
+2021-08-11 11:22:01 - INFO - Start generating XGBoost training data
+2021-08-11 11:22:02 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 1 seconds
+2021-08-11 11:24:08 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 11:24:09 - INFO - Get columns
+2021-08-11 11:24:09 - INFO - Start generating XGBoost training data
+2021-08-11 11:24:10 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 1 seconds
+2021-08-11 11:25:49 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 11:26:07 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 11:26:07 - INFO - Get columns
+2021-08-11 11:26:07 - INFO - Start generating XGBoost training data
+2021-08-11 11:26:08 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 0 seconds
+2021-08-11 11:26:52 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 11:26:52 - INFO - Get columns
+2021-08-11 11:26:52 - INFO - Start generating XGBoost training data
+2021-08-11 11:26:53 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 0 seconds
+2021-08-11 11:31:52 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 11:31:52 - INFO - Get columns
+2021-08-11 11:31:52 - INFO - Start generating XGBoost training data
+2021-08-11 11:31:52 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 0 seconds
+2021-08-11 11:37:55 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 11:37:55 - INFO - Get columns
+2021-08-11 11:37:55 - INFO - Start generating XGBoost training data
+2021-08-11 11:37:59 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 3 seconds
+2021-08-11 11:45:15 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 11:45:15 - INFO - Get columns
+2021-08-11 11:45:15 - INFO - Start generating XGBoost training data
+2021-08-11 11:45:16 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 0 seconds
+2021-08-11 11:46:55 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 11:46:55 - INFO - Get columns
+2021-08-11 11:46:55 - INFO - Start generating XGBoost training data
+2021-08-11 11:46:55 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 0 seconds
+2021-08-11 11:47:20 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 11:47:20 - INFO - Get columns
+2021-08-11 11:47:20 - INFO - Start generating XGBoost training data
+2021-08-11 11:47:21 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 0 seconds
+2021-08-11 11:50:40 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 11:53:17 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 11:53:42 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 11:54:29 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 11:56:25 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 11:56:25 - INFO - Get columns
+2021-08-11 11:56:25 - INFO - Start generating XGBoost training data
+2021-08-11 11:56:26 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 0 seconds
+2021-08-11 11:57:29 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 12:46:19 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 12:46:19 - INFO - Get columns
+2021-08-11 12:46:19 - INFO - Start generating XGBoost training data
+2021-08-11 12:46:20 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 1 seconds
+2021-08-11 12:48:54 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 12:48:55 - INFO - Get columns
+2021-08-11 12:48:55 - INFO - Start generating XGBoost training data
+2021-08-11 12:48:55 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 1 seconds
+2021-08-11 12:51:03 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 12:51:03 - INFO - Get columns
+2021-08-11 12:51:03 - INFO - Start generating XGBoost training data
+2021-08-11 12:51:04 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 0 seconds
+2021-08-11 12:51:47 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 12:52:09 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 12:52:09 - INFO - Get columns
+2021-08-11 12:52:09 - INFO - Start generating XGBoost training data
+2021-08-11 12:52:10 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 0 seconds
+2021-08-11 12:56:20 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 12:58:55 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 13:01:39 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 13:01:39 - INFO - Get columns
+2021-08-11 13:01:39 - INFO - Start generating XGBoost training data
+2021-08-11 13:01:40 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 1 seconds
+2021-08-11 13:02:37 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 13:02:56 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 13:03:12 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 13:03:12 - INFO - Get columns
+2021-08-11 13:03:12 - INFO - Start generating XGBoost training data
+2021-08-11 13:03:13 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 1 seconds
+2021-08-11 13:03:31 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 13:03:31 - INFO - Get columns
+2021-08-11 13:03:31 - INFO - Start generating XGBoost training data
+2021-08-11 13:03:32 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 0 seconds
+2021-08-11 13:07:38 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 13:07:59 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 13:07:59 - INFO - Get columns
+2021-08-11 13:07:59 - INFO - Start generating XGBoost training data
+2021-08-11 13:08:00 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 1 seconds
+2021-08-11 13:08:55 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 13:08:55 - INFO - Get columns
+2021-08-11 13:08:55 - INFO - Start generating XGBoost training data
+2021-08-11 13:08:56 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 0 seconds
+2021-08-11 13:09:07 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 13:09:07 - INFO - Get columns
+2021-08-11 13:09:07 - INFO - Start generating XGBoost training data
+2021-08-11 13:09:08 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 0 seconds
+2021-08-11 13:10:22 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 13:10:37 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 13:10:38 - INFO - Get columns
+2021-08-11 13:10:38 - INFO - Start generating XGBoost training data
+2021-08-11 13:10:38 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 0 seconds
+2021-08-11 13:11:48 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 13:11:49 - INFO - Get columns
+2021-08-11 13:11:49 - INFO - Start generating XGBoost training data
+2021-08-11 13:11:50 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 1 seconds
+2021-08-11 13:12:53 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 13:12:53 - INFO - Get columns
+2021-08-11 13:12:53 - INFO - Start generating XGBoost training data
+2021-08-11 13:12:54 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 1 seconds
+2021-08-11 13:16:44 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 13:16:56 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 13:59:04 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 14:00:03 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 14:00:03 - INFO - Get columns
+2021-08-11 14:00:03 - INFO - Start generating XGBoost training data
+2021-08-11 14:00:04 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 1 seconds
+2021-08-11 14:01:03 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 14:01:03 - INFO - Get columns
+2021-08-11 14:01:03 - INFO - Start generating XGBoost training data
+2021-08-11 14:01:05 - INFO - Start predicting on test data
+2021-08-11 14:01:05 - INFO - Start generating feature importance with SHAP
+2021-08-11 14:01:05 - INFO - Start predicting on full data
+2021-08-11 14:01:10 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 7 seconds

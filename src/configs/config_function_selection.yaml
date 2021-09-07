@@ -1,0 +1,23 @@
+---
+
+# data sampling ratio:
+test_set_percent: 0.25
+# lagging features:
+lag_length: 16
+
+# model parameters:
+learning_rate: 0.03
+min_child_weight: 1
+max_depth: 6
+max_delta_step: 0
+subsample: 1
+colsample_bytree: 1
+colsample_bylevel: 1
+
+# running function selection:
+modeling_steps:
+  train_model: True
+  model_prediction: True
+  feature_importance: True
+  make_trading_decisions: True
+

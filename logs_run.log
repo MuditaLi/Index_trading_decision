@@ -1,0 +1,7 @@
+2021-08-11 14:01:03 - INFO - CONFIGS - Loaded configs from file ......................... C:\Users\Li.Mingxi\PycharmProjects\multi_asset_cast\src\configs\config_function_selection.yaml
+2021-08-11 14:01:03 - INFO - Get columns
+2021-08-11 14:01:03 - INFO - Start generating XGBoost training data
+2021-08-11 14:01:05 - INFO - Start predicting on test data
+2021-08-11 14:01:05 - INFO - Start generating feature importance with SHAP
+2021-08-11 14:01:05 - INFO - Start predicting on full data
+2021-08-11 14:01:10 - INFO - C:/USERS/LI.MINGXI/PYCHARMPROJECTS/MULTI_ASSET_CAST/MAIN.PY - Script completed in .............................. 7 seconds

@@ -1,0 +1,75 @@
+Feature,Score
+Cycle Indicator Global,0.4228605031967163
+Eurozone Retail Sales,2.453522205352783
+Eurozone Industrial Production exconstr,0.6239195466041565
+Eurozone Industrial Production manuf,0.0
+US Privately Owned Housing Starts,0.07007244974374771
+US HomeBuilders Market Index,0.02007254958152771
+US Real Personal Income,0.35427460074424744
+US Real Personal Income exTrans,0.06456077843904495
+US Indus Prod Index,0.8685440421104431
+Adv Retail Sales US exFood Services,0.0
+US JoblessClaims Seasonally Adjusted,0.2878614664077759
+US U6 Unemp Rate,0.029652126133441925
+World EPS forecast 3M Change,0.026171928271651268
+US M1 Growth YOY,0.1373589038848877
+RealUS M1 Growth YOY,0.0
+FED Excess Reserves,0.21830731630325317
+Fed Balance Sheet,0.0
+ECB Balance Sheet,0.15504926443099976
+Real Yield US,0.43058478832244873
+US 10yr Rate,0.013214301317930222
+Germany 10yr Rate,0.0023552714847028255
+EU 10Y 2Y Curve,0.02174481563270092
+US 10Y 2Y Curve,0.0
+Fed Fwd 6 Month,0.0
+Fed Fwd 12 Month,0.03296395018696785
+Chinese Oil Imports,0.1037876307964325
+Japanese Export China,0.0
+Industrial Metal Prices,0.0
+US Core CPI,0.0
+Inflation Surprise Global,0.18798236548900604
+US Breakeven Inflation,0.0
+US PCE YOY,0.0
+US Financial Conditions Index A,0.0
+US Financial Conditions Index B,0.18730558454990387
+EU Financial Conditions Index A,0.05423394590616226
+EU Financial Conditions Index B,0.0
+US IG Spreads,0.009714959189295769
+US HY Spreads,0.0
+EU IG Spreads,0.0
+EU HY Spreads,2.7194864749908447
+US Credit Standards,1.4642748832702637
+Global Equity 3 Month Momentum,0.0
+Global Equity 6 Month Momentum,0.0
+Global Equity 12 Month Momentum,0.0
+Vix Index,0.7936457991600037
+Commercial Paper Spread,0.0520758256316185
+V2x Index,0.07874348014593124
+Eonia Spread,0.0
+Equity Risk Premia,0.0
+Sentiment Macro Fundamentals Global News Social,0.014056827872991562
+Sentiment Consumer Sentiment Global News Social,0.0
+Sentiment Economic Growth Global News Social,0.026499556377530098
+Sentiment Trade Balance Global News Social,0.0427078939974308
+Sentiment environmental composite GLOBAL News,0.07797220349311829
+Sentiment social composite GLOBAL News,0.023531312122941017
+Sentiment governance composite GLOBAL News,0.0
+Sentiment governance composite GLOBAL News Social,0.0
+Sentiment social composite GLOBAL News Social,0.0
+Sentiment environmental composite GLOBAL News Social,0.01836284250020981
+lag_1,13.425919532775879
+lag_2,0.07340563088655472
+lag_3,4.696831226348877
+lag_4,2.934464454650879
+lag_5,0.0
+lag_6,0.01736176386475563
+lag_7,0.08901630342006683
+lag_8,0.055751025676727295
+lag_9,0.19821996986865997
+lag_10,0.30968034267425537
+lag_11,0.35735949873924255
+lag_12,0.027063757181167603
+lag_13,0.007541279774159193
+lag_14,0.05559870973229408
+lag_15,0.07815992832183838
